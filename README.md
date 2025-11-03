@@ -17,5 +17,5 @@ Users can **add, remove, display, and track items** with their name, quantity, a
 2. Open a terminal in the project folder  
 3. Compile the Java files:
 ```bash
-javac Item.java Main2.java
+javac Item.java Main.java
 
