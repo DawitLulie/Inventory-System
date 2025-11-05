@@ -11,11 +11,9 @@ Users can **add, remove, display, and track items** with their name, quantity, a
 - Track **total number of items**  
 - Simple **menu-driven interface** for easy interaction  
 
-
 ## How to Run
 1. Ensure **Java JDK** is installed (version 8 or higher)  
 2. Open a terminal in the project folder  
 3. Compile the Java files:
-```bash
-javac Item.java Main.java
-
+   ```bash
+   javac Item.java Main.java
